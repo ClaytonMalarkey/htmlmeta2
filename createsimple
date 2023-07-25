@@ -1,0 +1,8 @@
+echo "Greetings";
+mkdir simple;
+cd simple;
+touch index.html;
+echo "I am simple" >> index.html;
+echo "nice greetng";
+mkdir $1;
+touch $/index.html;
